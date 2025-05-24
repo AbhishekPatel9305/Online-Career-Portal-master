@@ -1,2 +1,4 @@
-# Online-Career-Portal-master
-A PHP-based online career portal for job seekers and employers. Features include job posting, application tracking, resume management, and user authentication. Designed with modular PHP scripts for easy maintenance and scalability.
+# Online-Career-Portal
+#PHP #SQL #MySQL #AdobeDreamweaver
+
+Online Job Portal was a website in which the recruiter could post new job vacancies for any specialization for the hiring process and job seekers could search and apply for any number of jobs. This project also has the dashboard so that each recruiter and job seeker could see their activities. 
